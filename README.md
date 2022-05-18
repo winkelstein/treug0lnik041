@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**treug0lnik041/treug0lnik041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my github account!
 
-Here are some ideas to get you started:
+# About me.
+I'm C/C++ developer from Russia. Also I know C#, Rust and Python. I like to learn new technologies on my favorite programming languages.
+Currently I'm working on my own Minecraft — https://github.com/treug0lnik041/Minecraft-cpp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I can.
+I know WinAPI, OpenGL, multithreading programming, currently learning Linux API, boost, network programming (socket, asio).
+
+---
+
+<a href="https://github.com/treug0lnik041">
+  <img align="center" alt="MugiChu Github Stats"src="https://github-readme-stats.vercel.app/api?username=treug0lnik041&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/treug0lnik041">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treug0lnik041&langs_count=8&layout=compact&theme=dark" />
+</a>
