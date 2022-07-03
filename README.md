@@ -7,7 +7,7 @@ I'm C/C++ developer from Russia. Also I know Rust and Python and understand Asse
 Currently I'm working on my own Minecraft — https://github.com/treug0lnik041/Minecraft-cpp.
 
 ## What I can.
-Tech stack: WinAPI, OpenGL, multithreading programming.
+Tech stack: WinAPI, OpenGL, multithreading programming, SQLite.
 Currently learning Linux API, boost, network programming (socket, asio).
 
 ---
