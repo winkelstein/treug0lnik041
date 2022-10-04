@@ -8,7 +8,7 @@ Currently I'm working on my own Minecraft — https://github.com/treug0lnik041/M
 
 ## What I can.
 Tech stack: WinAPI, OpenGL, multithreading programming, SQLite.
-Currently learning Linux API, boost, network programming (socket, asio).
+Currently learning blockhain developing.
 
 ---
 
