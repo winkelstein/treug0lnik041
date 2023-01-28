@@ -8,3 +8,5 @@
 </a>
 
 ---
+
+Smart contract developer on Ethereum.
