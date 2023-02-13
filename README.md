@@ -8,8 +8,10 @@
 </a>
 
 ---
+
 Contacts:
 [Telegram](https://t.me/treug0lnik)
+
 Email: treug0lnik@yahoo.com
 
 Smart contract developer on Ethereum.
