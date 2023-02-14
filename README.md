@@ -14,4 +14,8 @@ Contacts:
 
 Email: treug0lnik@yahoo.com
 
+Last projects (dApps):
+- [ttt-ethereum](https://ttt-ethereum.vercel.app/)
+- [Epinephine Wallet](https://epinephrine-wallet.vercel.app/)
+
 Smart contract developer on Ethereum.
