@@ -8,14 +8,16 @@
 </a>
 
 ---
+# Smart contract developer on Ethereum.
 
-Contacts:
+
+## Contacts:
+
 [Telegram](https://t.me/treug0lnik)
 
 Email: treug0lnik@yahoo.com
 
+## Projects:
 Last projects (dApps):
-- [ttt-ethereum](https://ttt-ethereum.vercel.app/)
+- [TicTacToe on Ethereum](https://ttt-ethereum.vercel.app/)
 - [Epinephine Wallet](https://epinephrine-wallet.vercel.app/)
-
-Smart contract developer on Ethereum.
