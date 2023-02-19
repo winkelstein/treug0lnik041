@@ -18,5 +18,8 @@ Email: treug0lnik@yahoo.com
 
 ## Projects
 ### dApps
-- [TicTacToe on Ethereum](https://ttt-ethereum.vercel.app/)
-- [Epinephine Wallet](https://epinephrine-wallet.vercel.app/)
+- [TicTacToe on Ethereum (frontend on Vercel)](https://ttt-ethereum.vercel.app/)
+- [Epinephine Wallet (frontend on Vercel)](https://epinephrine-wallet.vercel.app/)
+
+### Smart-contracts only
+- [Axolotl Token](https://github.com/treug0lnik041/AxolotlToken)
