@@ -1,9 +1,9 @@
 ---
 
-<a href="https://github.com/treug0lnik041">
+<a href="https://github.com/winkelstein">
   <img align="center" alt="MugiChu Github Stats"src="https://github-readme-stats.vercel.app/api?username=treug0lnik041&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/treug0lnik041">
+<a href="https://github.com/winkelstein">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treug0lnik041&langs_count=8&layout=compact&theme=dark" />
 </a>
 
@@ -12,17 +12,17 @@
 
 
 ## Contacts
-[Telegram](https://t.me/treug0lnik)
+[Telegram](https://t.me/winkelstein)
 
-Email: treug0lnik@yahoo.com
+Email: andrew.winkelstein@gmail.com
 
 ## Projects
 ### dApps
 - [Coinomicon Decentralized Exchange on Ethereum (frontend on Vervel)](https://coinomicon.vercel.app/)
 - [TicTacToe on Ethereum (frontend on Vercel)](https://ttt-ethereum.vercel.app/)
 - [Epinephine Wallet (frontend on Vercel)](https://epinephrine-wallet.vercel.app/)
-- [DeChat on Near Protocol](https://github.com/treug0lnik041/DeChat)
+- [DeChat on Near Protocol](https://github.com/winkelstein/DeChat)
 
 ### Smart-contracts only
-- [Axolotl Token](https://github.com/treug0lnik041/AxolotlToken)
-- [Wrapped ETH](https://github.com/treug0lnik041/WrappedETH)
+- [Axolotl Token](https://github.com/winkelstein/AxolotlToken)
+- [Wrapped ETH](https://github.com/winkelstein/WrappedETH)
