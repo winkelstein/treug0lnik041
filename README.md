@@ -9,7 +9,7 @@
 
 ---
 ## Contacts
-[Telegram](https://t.me/winkelstein)
+Telegram: [@winkelstein](https://t.me/winkelstein)
 
 Email: andrew.winkelstein@gmail.com
 
