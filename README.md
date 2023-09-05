@@ -8,9 +8,6 @@
 </a>
 
 ---
-# Smart contract developer on Ethereum.
-
-
 ## Contacts
 [Telegram](https://t.me/winkelstein)
 
