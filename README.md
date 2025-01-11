@@ -9,6 +9,6 @@
 
 ---
 ## Contacts
-Telegram: [@winkelstein](https://t.me/andrew_winkelstein)
+Telegram: [@andrew_winkelstein](https://t.me/andrew_winkelstein)
 
 Email: andrew.winkelstein@gmail.com
